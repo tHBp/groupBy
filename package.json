@@ -1,0 +1,27 @@
+{
+  "name": "group-object-array",
+  "version": "1.0.0",
+  "description": "Ultra tiny library to group array of objects based on multiple properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tHBp/groupBy.git"
+  },
+  "keywords": [
+    "group",
+    "array",
+    "properties",
+    "multiple",
+    "nested",
+    "objects"
+  ],
+  "author": "tHBp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tHBp/groupBy/issues"
+  },
+  "homepage": "https://github.com/tHBp/groupBy#readme"
+}
